@@ -1,3 +1,3 @@
 [submodule "networking"]
-	path = networking
+	path = dep/networking
 	url = git@github.com:UtilityRod/networking.git
